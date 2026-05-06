@@ -19,6 +19,6 @@ I'm a customer support leader currently working on learning full stack developme
 
 # My work
 ## The Odin Project Foundations
-[Basic Calculator](https://ajithmeleppat.github.io/basic-calculator/)
-[Etch a sketch](https://ajithmeleppat.github.io/etch-a-sketch/)
-[Rock Paper Scissors](https://ajithmeleppat.github.io/rock-paper-scissors/)
+[Basic Calculator](https://ajithmeleppat.github.io/basic-calculator/) 
+[Etch a sketch](https://ajithmeleppat.github.io/etch-a-sketch/) 
+[Rock Paper Scissors](https://ajithmeleppat.github.io/rock-paper-scissors/) 
